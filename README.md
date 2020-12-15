@@ -1,4 +1,4 @@
-[<img src="https://github.com/DevKyleK/Loop/blob/main/loop.png?raw=true" width="10"/>](image.png)
+[<img src="https://github.com/DevKyleK/Loop/blob/main/loop.png?raw=true" width="50"/>](image.png)
 # LoopStack
 Loop is a system built on the M5Stack for people to use as a "mini" operating system it includes games and apps submitted by the community and is constantly being updated
 
