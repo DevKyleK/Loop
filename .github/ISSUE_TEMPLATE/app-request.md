@@ -1,6 +1,6 @@
 ---
-name: App request
-about: Suggest an idea for this project
+name: App Request
+about: Request to add you own app!
 title: ''
 labels: ''
 assignees: ''
