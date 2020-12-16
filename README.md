@@ -8,3 +8,8 @@ Head on over to issues and fill in the Add New App form and we will review it an
 
 
 # To-Do
+| ID | VERSION TO IMPLEMENT | DESCRIPTION                          | STATUS | ASSIGNED |
+|----|----------------------|--------------------------------------|--------|----------|
+| 1  | 1.2.2                | Redesign the launcher interface      | 🕒      | DevKyleK |
+| 2  | 1.2.2                | Add support for fingerprint login    | ✖️      |          |
+| 3  | 1.2.1                | Add a new loader support with colour | ✔️      | DevKyleK |
